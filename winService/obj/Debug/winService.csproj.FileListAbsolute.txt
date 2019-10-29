@@ -1,0 +1,13 @@
+C:\Users\JACOB\Documents\Visual Studio 2019\Projects\Win\winService\winService\bin\Debug\winService.exe.config
+C:\Users\JACOB\Documents\Visual Studio 2019\Projects\Win\winService\winService\bin\Debug\winService.exe
+C:\Users\JACOB\Documents\Visual Studio 2019\Projects\Win\winService\winService\bin\Debug\winService.pdb
+C:\Users\JACOB\Documents\Visual Studio 2019\Projects\Win\winService\winService\bin\Debug\Common.Logging.dll
+C:\Users\JACOB\Documents\Visual Studio 2019\Projects\Win\winService\winService\bin\Debug\Quartz.dll
+C:\Users\JACOB\Documents\Visual Studio 2019\Projects\Win\winService\winService\bin\Debug\Common.Logging.pdb
+C:\Users\JACOB\Documents\Visual Studio 2019\Projects\Win\winService\winService\bin\Debug\Common.Logging.xml
+C:\Users\JACOB\Documents\Visual Studio 2019\Projects\Win\winService\winService\bin\Debug\Quartz.pdb
+C:\Users\JACOB\Documents\Visual Studio 2019\Projects\Win\winService\winService\bin\Debug\Quartz.xml
+C:\Users\JACOB\Documents\Visual Studio 2019\Projects\Win\winService\winService\obj\Debug\winService.csprojAssemblyReference.cache
+C:\Users\JACOB\Documents\Visual Studio 2019\Projects\Win\winService\winService\obj\Debug\winService.csproj.CopyComplete
+C:\Users\JACOB\Documents\Visual Studio 2019\Projects\Win\winService\winService\obj\Debug\winService.exe
+C:\Users\JACOB\Documents\Visual Studio 2019\Projects\Win\winService\winService\obj\Debug\winService.pdb
